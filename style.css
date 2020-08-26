@@ -389,7 +389,7 @@ img {
     }
     .banner {
         padding: 150px 50px 100px;
-        background: url(bg2.jpg);
+        background: url(/images/banner.jpg);
         background-size: auto;
     }
     .banner h2 {
